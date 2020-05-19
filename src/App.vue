@@ -1,8 +1,6 @@
 <template>
-  <div class="ui secondary pointing menu">
-      <!-- <a href="/" class="active item"> -->
+  <div>
         <AppHeader/>
-      <!-- </a> -->
   </div>
 </template>
 
